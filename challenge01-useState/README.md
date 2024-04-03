@@ -1,8 +1,8 @@
-# React + Vite
+# Show/Hide title
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Description :
+Implement a button to show/hide the text content
 
-Currently, two official plugins are available:
+Sample output(click on image to expand)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![show_hide](https://github.com/HimanshuNayak16/react-challenges/assets/82570795/7ff5db2a-81d4-4392-a4e9-4450032ba64e)
